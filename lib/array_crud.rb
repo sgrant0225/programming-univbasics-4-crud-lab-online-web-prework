@@ -48,4 +48,5 @@ def update_element_from_index(array, index_number, element)
     index_number = 4
     element = ["totally"]
     array.insert(4, "totally")
+    array[4]
 end
